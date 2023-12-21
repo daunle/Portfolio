@@ -9,9 +9,7 @@
 ------------------------------
 ## code 목록
 '''
-
 1. crawling_ecolife.py
 2. association_rules_Combinatorial_Optimization.py
-
 '''
 ------------------------------
